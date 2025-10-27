@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides information on course content, meeting
   times, prerequisites, recommended texts, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -45,7 +43,7 @@ Recommended Text
 
 The course more or less covers the textbook:
 
-Stanley, Richard P. _Algebraic Combinatorics: Walks, Trees, Tableaux, and More_. Springer, 2018. ISBN: 9783319771724. [Online 2013 version](http://math.mit.edu/~rstan/algcomb/index.html).
+Stanley, Richard P. _Algebraic Combinatorics: Walks, Trees, Tableaux, and More_. Springer, 2018. ISBN: 9783319771724. {{% resource_link "700d6e88-f87b-4895-ae21-3c6110ee8ae5" "Online 2013 version" %}}.
 
 Grading
 -------

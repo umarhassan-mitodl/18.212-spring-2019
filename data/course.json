@@ -26,7 +26,6 @@
     "website": "18-212-algebraic-combinatorics-spring-2019"
   },
   "course_title": "Algebraic Combinatorics",
-  "hide_download": true,
   "course_description": "This course covers the applications of algebra to combinatorics. Topics include enumeration methods, permutations, partitions, partially ordered sets and lattices, Young tableaux, graph theory, matrix tree theorem, electrical networks, convex polytopes, and more.\n",
   "department_numbers": [
     "18"
@@ -37,7 +36,6 @@
     "content": "379fd975-0d71-a541-7a89-2da5724cc509",
     "website": "18-212-algebraic-combinatorics-spring-2019"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Open Textbooks",
